@@ -68,6 +68,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Mplus1p (Coji Morishita)
 — FredokaOne (Ben Nathan)
 — Solitreo, Nesher Gadol, Nesher Katon (Isaac Gantwerk Mayer)
+— E_Yehoash_Esther (Marnie Manning)
 
 	
 1 Faux-Hebrew Font

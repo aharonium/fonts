@@ -1,5 +1,10 @@
 CHANGES
 
+Version 1.18.9
+
++ Added E_Yehoash_Esther by Marnie Manning
+
+
 Version 1.18.8
 
 + Added Lulav CLM by Maxim Iorsh (Culmus Project)
