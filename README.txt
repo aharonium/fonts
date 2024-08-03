@@ -1,4 +1,4 @@
-*the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.18.8)
+*the Open Siddur Project's open-source Unicode Hebrew font pack* (v. 2024.08.03)
    <http://opensiddur.org/tools/fonts/>
 
 “Unicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world’s writing systems.” (wikipedia)
@@ -13,7 +13,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Ezra SIL/SR (SIL v.2.51)
 — Cardo (by David Perry, v.104s)
 — Keter YG, Keter Aram Tsova, Taamey David, Taamey Frank, Taamey Ashkenaz, 
-    Shofar (by Yoram Gnat, Culmus Project)
+     Shofar (by Yoram Gnat, Culmus Project)
 — Frank Ruehl CLM, Nachlieli CLM, Miriam Mono CLM (v.0.131 by Maxim Iorsh, Culmus Project)	
 — Shlomo, ShlomoStam, and ShlomoSemiStam (by Shlomo Orbach)
 — Mekorot Vilna (Mekorot/Makor)
@@ -27,8 +27,8 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 
 — BenOr Rashi (David ben Or, Sefarađizo, Sephardic Association of Órgiva, Granada, Andalusia, Spain)
 — Mekorot Rashi (Mekorot/Makor, fixed and adjusted by Yoram Gnat, Culmus Project)
-— David CLM, Dorian CLM, Frank CurledLamed CLM, 
-    Hadasim CLM, Miriam CLM, Simple CLM (v.0.131 by Maxim Iorsh, Culmus Project)
+— David CLM, Dorian CLM, Frank CurledLamed CLM, Drugulin CLM,
+     Hadasim CLM, Miriam CLM, Simple CLM (v.0.131 by Maxim Iorsh, Culmus Project)
 — Shmulik CLM and Makabi YG (by Yoram Gnat, Culmus Project)
 — Shuneet (v.2.1 by Cunliffe Thompson)
 — Arimo and Tinos (by Steve Matteson)
@@ -50,9 +50,9 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Sofer Stam Ashkenaz, Sofer Stam Sefarad, 
     and 16 Ancient Hebrew, Aramaic, and proto-Canaanite Semitic Scripts (by Yoram Gnat, Culmus Project)
 — Cryptic A (Nir Yenni), 4Q416 (Eshbal Ratson & Einat Tamir), 4Q417 and 4Q418 (Einat Tamir), 4Q503 (Antony Perrot)
-— Drugulin CLM, Aharoni CLM, Yehuda CLM, Ellinia CLM, Journal CLM, Lulav CLM (v.0.12 by Maxim Iorsh, Culmus Project)
-— Anka CLM, Comix No2 CLM, Gan CLM, Gladia CLM, 
-    Hillel CLM, Ktav-Yad CLM, Ozrad CLM (Fancy Fonts by the Culmus Project)
+— Aharoni CLM, Yehuda CLM, Ellinia CLM, Journal CLM, Lulav CLM (v.0.12 by Maxim Iorsh, Culmus Project)
+— Anka CLM, Comix No2 CLM, Farissol CLM, Gan CLM, Gladia CLM, 
+     Hillel CLM, Ktav-Yad CLM, Ozrad CLM (Fancy Fonts by the Culmus Project)
 — Refoyl and Nachlaot (cursive fonts by Refoyl Finkl)
 — Migdal HaEmeq, Miri, Retro Perspective, Stop Motion, and Tnua Libre (by Elad Mordechai Mizrahi)
 — Asakim, Dragon, Nehama, and Paskol (by Printer Killer)

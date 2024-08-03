@@ -1,5 +1,12 @@
 CHANGES
 
+Version 2024.08.03
+
++ version numbering in date based format
++ removed Drugulin CLM (Italic)
++ added Farissol CLM
++ updated Culmus fonts with Culmus release 0.140 (AharoniCLM, David CLM, DrugulinCLM, ElliniaCLM, FrankRuehlCLM, HadasimCLM, KeterYG, MiriamCLM, MiriamMonoCLM, NachlieliCLM, Shofar, SimpleCLM, StamAshkenazCLM, StamSefaradCLM, YehudaCLM)
+
 Version 1.18.9
 
 + Added E_Yehoash_Esther by Marnie Manning
