@@ -1,326 +1,134 @@
 CHANGES
 
-Version 2024.08.03
+Version 2026.04.16
++ Added Dyslexia-Hebrew by Jake Shoag
++ Added Romm Vilna by Ilan Elovitz
+− Sharpie by Baruch Sienna
+• Updates to https://opensiddur.org/help/fonts and support scripts
+• Updates to the OSP Hebrew Font Pack Comparison Chart (PDF)
 
+
+Version 2024.08.03
 + version numbering in date based format
 + removed Drugulin CLM (Italic)
 + added Farissol CLM
 + updated Culmus fonts with Culmus release 0.140 (AharoniCLM, David CLM, DrugulinCLM, ElliniaCLM, FrankRuehlCLM, HadasimCLM, KeterYG, MiriamCLM, MiriamMonoCLM, NachlieliCLM, Shofar, SimpleCLM, StamAshkenazCLM, StamSefaradCLM, YehudaCLM)
 
-Version 1.18.9
 
+Version 1.18.9
 + Added E_Yehoash_Esther by Marnie Manning
 
 
 Version 1.18.8
-
 + Added Lulav CLM by Maxim Iorsh (Culmus Project)
 
 
 Version 1.18.7
-
 + Added NotoRashi
-
 + Added Solitreo by Isaac Gantwerk Mayer
-
 + Added Nesher Gadol by Isaac Gantwerk Mayer
-
 + Added Nesher Katon by Isaac Gantwerk Mayer
 
 
 Version 1.18.6
-
 + Added Haifa University Dead Sea Scroll Fonts (Cryptic A, 4Q416, 4Q417, 4Q418, 4Q503)
 
+
 Version 1.18.5
-
 + Added BelleFair by Nick Shinn, Liron Lavi Turkenic
-
 + Added Mplus1p by Coji Morishita 
-
 + Added NotoHebrew Serif by Google/Monotype Design Team
-
 + Added IBM Plex Sans Hebrew by Mike Abbink, Paul van der Laan, Piter van Rosmalen, Yanek Iontef
-
 + Added FredokaOne by Ben Nathan
 
 
 Version 1.18.2
-
 + Added BenOr Rashi by David ben Or (Sefarađizo: Sephardic Association of Órgiva, Granada, Andalusia, Spain)
-
 + Added Sharpie by Baruch Sienna
-
 • Updated Linux Biolinum, Linux Libertine
-
 • Updated GNU FreeFont (FreeSerif, FreeSans, etc.)
-
 • Update to http://opensiddur.org/help/fonts
 
 
 Version 1.18.1
-
 + Added Culmus Project release update 0.131
-
 • Moved Frank Ruehl CLM, Miriam Mono CLM, and Nachlieli CLM to Letters with vowels and cantillation
 
 
 Version 1.18
-
 + Added Noto Sans by Google
-
 + Added Assistant by Ben Nathan
-
 + Added Varela Round by Avraham Cornfeld
-
 + Added David Libre, Heebo, and Rubik by Meir Sadan
-
 + Added Miriam Libre, Secular One, and Suez One by Michal Sahar
-
 + Added Cousine by Steve Matteson
-
 + Added Amatic_SC and Amatica_SC by Vernon Adams, Ben Nathan, and Thomas Jockin
-
 + Added Frank Ruhl Libre by Yanek Iontef
-
 • Updated Periodic Table of Hebrew Letters by Aharon Varady to v.4.2
 
 
 Version 1.17
-
 + Added Carmela by Nir Yenni
-
 + Added Carmelit by Amos Jerbi
-
 + Added Noot by Amos Jerbi
-
 + Added Ptil by Amos Jerbi
-
 + Added Felix007 by Felix Wasserstein
-
 + Added OSP Le Patin Helvète by Ludivine Loiseau
-
 + Added Open Sans, Arimo, and Tinos by Steve Matteson (Ascender Corp., Google)
-
 + Added Looks Like S'pht by Christtrekker
-
 + Added Amiri by Khaled Hosny
-
 + Added Goddessfonts by AnonMoos
-
 + Raidho Theodings by Raidho
-
-- Removed XITS (replaced by Open Sans)
-
+− Removed XITS (replaced by Open Sans)
 + Updated Periodic Table of Hebrew Letters by Aharon Varady to v.4.1
 
 
 Version 1.16
-
 + Added Stop Motion by Elad Mordechai Mizrahi
-
 + Added Pfennig by David Johnston
-
 + Added Mashkit by Refoyl Finkl
-
 - Removed font index ODS file. Current font index is maintained at http://opensiddur.org/tools/fonts/
 
 
 Version 1.15
-
 + Added Frank Ruehl Curved Lamed to Yoram Gnat's Culmus directory under Hebrew Fonts w/ Vowels (no cantillation).
-
 + Added Drugulin CLM Italic to font chart.
 
 
 Version 1.14
-
 + Renamed directory "Dingbats" to "Symbols and Dingbats"
-
 + Added George Douros's Symbola, Unidings, and Musica fonts to Symbols and Dingbats
-
 + Added George Douros's Aegyptus, Akkadian, Analecta, and Anatolian fonts to Non-Hebrew Scripts
 
 
 Version 1.13
-
 + Added new Shlomo fonts (shared with an SIL OFL). Thanks Shlomo Orbach! Includes the new Shlomo Stam font.
-
 + Added Linux Libertine TTF fonts v. 5.3.0-2012-07-02.
-
 + Shuneet's new license is CC-BY-SA 3.0 Unported. Thanks Mike Thompson!
 
 
 Version 1.12
-
 + Added new Mekorot-Rashi. The font has been reworked by Yoram Gnat. Now supports niqud! (Thank you, Yoram!)
-
 + Moved Mekorot-Rashi from "Hebrew Letters only" directory to "Hebrew Letters with Vowels" directory
 
 
 Version 1.11
-
 + New font by HaGilda: Alef. (Thank you, HaGilda!)
 
 
 Version 1.10
-
 + New Cumliffe-Thompson font: Shuneet.
-
 + Reorganized fonts into categories indicating level of support for Hebrew diacritics.
 
 
 Version 1.09
-
 + New Install, Readme, Licenses, and Changes files.
-
 + New Culmus Project fonts by Yoram Gnat: Shofar and Taamey Ashkenaz. (Thank you, Maxim Iorsh and Yoram Gnat!)
-
 + Updated Culmus Project documentation to 0.130
-
 + Now includes Biblical (Tiro) Keyboard Layouts for Microsoft Windows and Apple OS X operating systems. (Thank you, John Hudson.)
-	
-- Removed Masoretic Hebrew Keyboard Layout
+− Removed Masoretic Hebrew Keyboard Layout
 
 
-Version 1.01 - 1.08
-
-+ Apologies. Changes to versions 1.01 through 1.08 were not documented.
-=======
-CHANGES
-
-Version 1.18.2
-
-+ Added BenOr Rashi by David ben Or (Sefarađizo: Sephardic Association of Órgiva, Granada, Andalusia, Spain)
-
-+ Added Sharpie by Baruch Sienna
-
-Version 1.18.1
-
-+ Added Culumus Project release update 0.131
-
-• Moved Frank Ruehl CLM, Miriam Mono CLM, and Nachlieli CLM to Letters with vowels and cantillation
-
-
-Version 1.18
-
-+ Added Noto Sans by Google
-
-+ Added Assistant by Ben Nathan
-
-+ Added Varela Round by Avraham Cornfeld
-
-+ Added David Libre, Heebo, and Rubik by Meir Sadan
-
-+ Added Miriam Libre, Secular One, and Suez One by Michal Sahar
-
-+ Added Cousine by Steve Matteson
-
-+ Added Amatic_SC and Amatica_SC by Vernon Adams, Ben Nathan, and Thomas Jockin
-
-+ Added Frank Ruhl Libre by Yanek Iontef
-
-• Updated Periodic Table of Hebrew Letters by Aharon Varady to v.4.2
-
-
-Version 1.17
-
-+ Added Carmela by Nir Yenni
-
-+ Added Carmelit by Amos Jerbi
-
-+ Added Noot by Amos Jerbi
-
-+ Added Ptil by Amos Jerbi
-
-+ Added Felix007 by Felix Wasserstein
-
-+ Added OSP Le Patin Helvète by Ludivine Loiseau
-
-+ Added Open Sans, Arimo, and Tinos by Steve Matteson (Ascender Corp., Google)
-
-+ Added Looks Like S'pht by Christtrekker
-
-+ Added Amiri by Khaled Hosny
-
-+ Added Goddessfonts by AnonMoos
-
-+ Raidho Theodings by Raidho
-
-- Removed XITS (replaced by Open Sans)
-
-+ Updated Periodic Table of Hebrew Letters by Aharon Varady to v.4.1
-
-
-Version 1.16
-
-+ Added Stop Motion by Elad Mordechai Mizrahi
-
-+ Added Pfennig by David Johnston
-
-+ Added Mashkit by Refoyl Finkl
-
-- Removed font index ODS file. Current font index is maintained at http://opensiddur.org/tools/fonts/
-
-
-Version 1.15
-
-+ Added Frank Ruehl Curved Lamed to Yoram Gnat's Culmus directory under Hebrew Fonts w/ Vowels (no cantillation).
-
-+ Added Drugulin CLM Italic to font chart.
-
-
-Version 1.14
-
-+ Renamed directory "Dingbats" to "Symbols and Dingbats"
-
-+ Added George Douros's Symbola, Unidings, and Musica fonts to Symbols and Dingbats
-
-+ Added George Douros's Aegyptus, Akkadian, Analecta, and Anatolian fonts to Non-Hebrew Scripts
-
-
-Version 1.13
-
-+ Added new Shlomo fonts (shared with an SIL OFL). Thanks Shlomo Orbach! Includes the new Shlomo Stam font.
-
-+ Added Linux Libertine TTF fonts v. 5.3.0-2012-07-02.
-
-+ Shuneet's new license is CC-BY-SA 3.0 Unported. Thanks Mike Thompson!
-
-
-Version 1.12
-
-+ Added new Mekorot-Rashi. The font has been reworked by Yoram Gnat. Now supports niqud! (Thank you, Yoram!)
-
-+ Moved Mekorot-Rashi from "Hebrew Letters only" directory to "Hebrew Letters with Vowels" directory
-
-
-Version 1.11
-
-+ New font by HaGilda: Alef. (Thank you, HaGilda!)
-
-
-Version 1.10
-
-+ New Cumliffe-Thompson font: Shuneet.
-
-+ Reorganized fonts into categories indicating level of support for Hebrew diacritics.
-
-
-Version 1.09
-
-+ New Install, Readme, Licenses, and Changes files.
-
-+ New Culmus Project fonts by Yoram Gnat: Shofar and Taamey Ashkenaz. (Thank you, Maxim Iorsh and Yoram Gnat!)
-
-+ Updated Culmus Project documentation to 0.130
-
-+ Now includes Biblical (Tiro) Keyboard Layouts for Microsoft Windows and Apple OS X operating systems. (Thank you, John Hudson.)
-	
-- Removed Masoretic Hebrew Keyboard Layout
-
-
-Version 1.01 - 1.08
-
+Versions 1.01–1.08
 + Apologies. Changes to versions 1.01 through 1.08 were not documented.
 >>>>>>> a449f376ee96489c76eb3840ea2c4145e3eac051
