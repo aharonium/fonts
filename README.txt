@@ -4,7 +4,7 @@
 “Unicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world’s writing systems.” (wikipedia)
 
 To aid in the dissemination of free/libre Hebrew fonts, the Open Siddur Project now offers, gratis, a FONT PACK. 
-90+ libre and open source licensed, Unicode Hebrew fonts, ready to install. 
+100+ libre and open source licensed, Unicode Hebrew fonts, ready to install. 
 Enjoy them. Share them. Learn from them. Modify them. 
 
 
@@ -15,7 +15,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Ezra SIL/SR (SIL)
 — Frank Ruehl CLM (Maxim Iorsh, Culmus)	
 — Keter Aram Tsova (Yoram Gnat, Culmus)
-— Keter YG, 
+— Keter YG (Yoram Gnat, Culmus) 
 — Mekorot Vilna (Mekorot/Makor)
 — Miriam Mono CLM (Maxim Iorsh, Culmus)	
 — Nachlieli CLM (Maxim Iorsh, Culmus)	
@@ -133,57 +133,64 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 
 	
 1 Faux-Hebrew Font
-— Hananiah (by Christtrekker)
+— Hananiah (Christtrekker)
 	
 	
 3 Arabic Fonts
-— Lateef, Scheherazade (by SIL)
-— Amiri (by Khaled Hosny)
+— Lateef  (SIL)
+— Scheherazade (SIL)
+— Amiri (Khaled Hosny)
 
 
 2 Ethiopic Fonts
-— Judson (by David Johnson)
-— Abyssinica (by SIL)
+— Judson (David Johnson)
+— Abyssinica (SIL)
 	
 	
 1 Egyptian Hieroglyphic Font
-— Aegyptus (by George Douros)
+— Aegyptus (George Douros)
 
 
 1 Coptic, etc.
-— Analecta (by Goege Douros)
+— Analecta (Goege Douros)
 	
 	
 1 Akkadian Font
-— Akkadian (by George Douros)
+— Akkadian (George Douros)
 	
 	
 1 Anatolian Font
-— Anatolian (by George Douros)
+— Anatolian (George Douros)
 
 
 10 Latin Fonts
-— Linux Biolinum (by Phillip Poll)
-— Liberation Mono/Sans/Serif (by Steve Matteson)
-— Andika, Charis, Doulos, Gentium, GentiumPlus (by SIL)
-— Comic Neue (by Crag Rozynski)	
+— Linux Biolinum (Phillip Poll)
+— Liberation Mono/Sans/Serif (Steve Matteson)
+— Andika (SIL)
+— Charis (SIL)
+— Doulos (SIL)
+— Gentium (SIL)
+— GentiumPlus (SIL)
+— Comic Neue (Crag Rozynski)	
 
 
 1 Old Church Slavonic Font
-— Triod Postnaja (by David Johnson)
+— Triod Postnaja (David Johnson)
 
 
 6 fonts of Symbols and Dingbats
-— Caladings CLM (v.0.12 by Maxim Iorsh, Culmus Project)
-— Musica, Symbola, and Unidings (by George Douros)
-— Goddess Symbols (by AnonMoos)
-— Raidho Theodings (by Raidho)
+— Caladings CLM (Maxim Iorsh, Culmus)
+— Musica, Symbola, and Unidings (George Douros)
+— Goddess Symbols (AnonMoos)
+— Raidho Theodings (Raidho)
 	
 	
 To learn more about these fonts, please visit:
-http://opensiddur.org/help/fonts/
+<http://opensiddur.org/help/fonts/>
 
 
 KEYBOARD LAYOUTS INCLUDED WITHIN THIS FONT PACK
+(Look in the directory named "Keyboard Layouts")
+— Tiro Keyboard Layout for Windows OS (v.1.7)
 
-Look in the directory named "Keyboard Layouts."
+
