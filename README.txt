@@ -31,7 +31,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Taamey Frank (Yoram Gnat, Culmus)
 	
 	
-34 fonts supporting niqud (w/out t'amim)
+35 fonts supporting niqud (w/out t'amim)
 — Alef (Mushon Zer-Aviv, HaGilda)
 — Amatic SC (Vernon Adams, Ben Nathan, Thomas Jockin)
 — Arimo and Tinos (Steve Matteson)
