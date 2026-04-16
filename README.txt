@@ -10,8 +10,9 @@ Enjoy them. Share them. Learn from them. Modify them.
 
 FONTS INCLUDED WITHIN THIS FONT PACK
 
-19 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
+20 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
 — Cardo (David Perry)
+— Dyselxia Hebrew (Jake Shoag)
 — Ezra SIL/SR (SIL)
 — Frank Ruehl CLM (Maxim Iorsh, Culmus)	
 — Keter Aram Tsova (Yoram Gnat, Culmus)
@@ -41,7 +42,6 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — David Libre (Meir Sadan)
 — Dorian CLM (Maxim Iorsh, Culmus)
 — Drugulin CLM (Maxim Iorsh, Culmus)
-— Dyselxia Hebrew (Jake Shoag)
 — Frank CurledLamed CLM (Maxim Iorsh, Culmus)
 — Frank Ruhl Libre (Yanek Iontef)
 — Hadasim CLM (Maxim Iorsh, Culmus) 
