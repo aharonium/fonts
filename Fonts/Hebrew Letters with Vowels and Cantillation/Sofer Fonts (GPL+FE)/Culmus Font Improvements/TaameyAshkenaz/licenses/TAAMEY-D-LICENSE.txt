@@ -1,0 +1,26 @@
+COPYRIGHT
+
+    Copyright (c) 2021, Ben Denckla (<bdenckla@alum.mit.edu>),
+    with Reserved Font Name 'Taamey D'.
+    
+    Taamey D's glyphs are derived from those of Taamey Frank CLM Medium.
+    Taamey D's OpenType mark positioning logic is original, i.e. *not* derived from that of Taamey Frank CLM Medium.
+    Below are the relevant parts of the copyright of Taamey Frank CLM Medium, with minor edits for clarity.
+    
+    Hebrew glyphs (letters, vowels, & cantillation marks)
+    copyright (c) 2009-2010, Yoram Gnat (<yoram.gnat@gmail.com>).
+    
+    Latin glyphs (letters and part of punctuation) taken from Century Schoolbook L font,
+    copyright (c) 1999 by (URW)++ Design & Development.
+
+LICENSE
+
+    This Font Software is licensed under the GNU Public License Version 2.
+    The license is available at http://www.gnu.org/licenses/old-licenses/gpl-2.0.html.
+    
+    As a special exception,
+    if you create a document which uses this font, and embed this font or unaltered portions of this font into the document,
+    this font does not by itself cause the resulting document to be covered by the GNU General Public License.
+    This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License.
+    If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so.
+    If you do not wish to do so, delete this exception statement from your version.

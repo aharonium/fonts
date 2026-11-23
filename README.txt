@@ -1,23 +1,22 @@
-*the Open Siddur Project's open-source Unicode Hebrew font pack* (v. 2026.04.16)
+*the Open Siddur Project's open-source Unicode Hebrew font pack* (v. 2026.11.22)
    <http://opensiddur.org/help/fonts/>
 
 “Unicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world’s writing systems.” (wikipedia)
 
 To aid in the dissemination of free/libre Hebrew fonts, the Open Siddur Project now offers, gratis, a FONT PACK. 
-100+ libre and open source licensed, Unicode Hebrew fonts, ready to install. 
-Enjoy them. Share them. Learn from them. Modify them. 
+100+ libre and open source licensed, Unicode Hebrew fonts, ready to install. Enjoy them. Share them. Learn from them. Modify them. 
 
 
 FONTS INCLUDED WITHIN THIS FONT PACK
 
-20 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
+21+ fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
 — Cardo (David Perry)
 — Dyselxia Hebrew (Jake Shoag)
 — Ezra SIL/SR (SIL)
 — Frank Ruehl CLM (Maxim Iorsh, Culmus)	
+— Hadasim CLM/Hadassah (Maxim Iorsh, Culmus; Mordechai Shaliehsaboo/Sofer) 
 — Keter Aram Tsova (Yoram Gnat, Culmus)
 — Keter YG (Yoram Gnat, Culmus) 
-— Mekorot Vilna (Mekorot/Makor)
 — Miriam Mono CLM (Maxim Iorsh, Culmus)	
 — Nachlieli CLM (Maxim Iorsh, Culmus)	
 — Noto Rashi Hebrew (Google)
@@ -26,12 +25,15 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Open Sans Hebrew (Steve Matteson)
 — Shlomo, ShlomoStam, and ShlomoSemiStam (Shlomo Orbach)
 — Shofar (Yoram Gnat, Culmus)
+— Sofer Stam Ashkenaz (Yoram Gnat, Culmus; Mordechai Shaliehsaboo/Sofer) 
+— Sofer Stam Sefarad (Yoram Gnat, Culmus; Mordechai Shaliehsaboo/Sofer)
 — Taamey Ashkenaz (Yoram Gnat, Culmus) 
 — Taamey David (Yoram Gnat, Culmus)
-— Taamey Frank (Yoram Gnat, Culmus)
-	
-	
-35 fonts supporting niqud (w/out t'amim)
+— Taamey Frank/Frank Sofer (Yoram Gnat, Culmus;  Mordechai Shaliehsaboo/Sofer)
+— Vilna Sofer (Alan Hoenig/Omega Makor; Mordechai Shaliehsaboo/Sofer)
+
+
+35+ fonts supporting niqud (w/out t'amim)
 — Alef (Mushon Zer-Aviv, HaGilda)
 — Amatic SC (Vernon Adams, Ben Nathan, Thomas Jockin)
 — Arimo and Tinos (Steve Matteson)
@@ -44,13 +46,14 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Drugulin CLM (Maxim Iorsh, Culmus)
 — Frank CurledLamed CLM (Maxim Iorsh, Culmus)
 — Frank Ruhl Libre (Yanek Iontef)
-— Hadasim CLM (Maxim Iorsh, Culmus) 
+— Hatkafa (XELO Studio)
 — Heebo (Meir Sadan)
 — IBM Plex Sans Hebrew (Mike Abbink, Paul van der Laan, Piter van Rosmalen, Yanek Iontef)
 — Linux Libertine (LinuxLibertine)
 — Makabi YG (Yoram Gnat, Culmus)
 — Mashkit (Refoyl Finkl)
 — Mekorot Rashi (Mekorot/Makor, fixed and adjusted by Yoram Gnat, Culmus)
+— Meldo Rashi and Meldo Solitreo (Nathan Gross)
 — Miriam CLM (Maxim Iorsh, Culmus)
 — Miriam Libre (Michal Sahar)
 — Rubik (Meir Sadan)
@@ -62,7 +65,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Varela Round (Joe Prince)
 
 
-66 fonts (not intended for use with niqud)
+66+ fonts (not intended for use with niqud)
 — 2Q5 (Antony Perrot)
 — 4Q101 (Antony Perrot)
 — 4Q416 (Eshbal Ratson, Einat Tamir) 
@@ -124,8 +127,6 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 — Refoyl (Refoyl Finkl)
 — Retro Perspective (Elad Mordechai Mizrahi)
 — Romm Vilna (Ilan Elovitz) 
-— Sofer Stam Ashkenaz (Yoram Gnat, Culmus) 
-— Sofer Stam Sefarad (Yoram Gnat, Culmus)
 — Solitreo (Isaac Gantwerk Mayer)
 — Stop Motion (Elad Mordechai Mizrahi)
 — Tnua Libre (Elad Mordechai Mizrahi)

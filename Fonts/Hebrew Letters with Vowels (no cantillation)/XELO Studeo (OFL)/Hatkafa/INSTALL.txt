@@ -1,0 +1,78 @@
+===========================================================================
+HATKAFA HEBREW TYPEFACE - INSTALLATION & USER GUIDE
+===========================================================================
+
+Follow this guide to properly install Hatkafa and set up your system for 
+Hebrew writing (including Right-to-Left typing and Nikud positioning).
+
+---------------------------------------------------------------------------
+1. HOW TO INSTALL THE FONT
+---------------------------------------------------------------------------
+Before installing, extract (unzip) the downloaded folder.
+
+For Windows Users:
+* Open the "OpenType (OTF)" or "TrueType (TTF)" folder.
+* Right-click on "Hatkafa-Regular.otf" (or .ttf).
+* Select "Install" for your personal account, or "Install for all users" 
+  (requires administrator access).
+
+For Mac Users:
+* Open the "OpenType (OTF)" or "TrueType (TTF)" folder.
+* Double-click on "Hatkafa-Regular.otf" (or .ttf).
+* A Font Book preview window will open. Click "Install Font".
+
+---------------------------------------------------------------------------
+2. HOW TO TYPING IN HEBREW (System Setup)
+---------------------------------------------------------------------------
+To type Hebrew characters, you must add the Hebrew keyboard layout to your 
+operating system:
+
+Windows: Go to Settings > Time & Language > Language > Add a language 
+         > Search for "Hebrew" > Install.
+Mac:     Go to System Settings > Keyboard > Input Sources > Click "+" 
+         > Search for "Hebrew" > Add.
+
+Shortcut to switch keyboards: 
+* Windows: Press Win + Spacebar
+* Mac:     Press Control + Spacebar
+
+---------------------------------------------------------------------------
+3. IMPORTANT: SOFTWARE SETTINGS FOR RIGHT-TO-LEFT (RTL)
+---------------------------------------------------------------------------
+Hebrew is written from Right-to-Left. If your text looks reversed or the 
+letters do not connect properly, you need to enable RTL features in your 
+software:
+
+Adobe Illustrator / Photoshop / InDesign:
+1. Open Preferences > Type.
+2. Under "Choose Text Engine Options", select "Middle Eastern and South Asian".
+3. Restart the software.
+4. In your Paragraph panel, make sure to select the "Right-to-Left Direction" 
+   icon.
+
+Microsoft Word:
+1. Ensure your Windows/Mac language settings have Hebrew enabled.
+2. Use the "Right-to-Left Text Direction" button found in the Home tab 
+   (Paragraph section) to flip the typing orientation.
+
+---------------------------------------------------------------------------
+4. DIACRITICS (NIKUD) PLACEMENT
+---------------------------------------------------------------------------
+Hatkafa includes advanced OpenType anchors for precise Nikud (vowel marks) 
+positioning. For the best visual results, always use modern design 
+software (like Adobe Creative Cloud or Figma) that supports advanced 
+OpenType shaping engines.
+
+===========================================================================
+SUPPORT & CUSTOM INQUIRIES
+===========================================================================
+Designed and Manufactured by Xelo Studio / XELOTYPE
+
+If you encounter any issues or need custom multi-language expansions, 
+feel free to reach out to us:
+
+* WhatsApp     : +62 851-5878-6099
+* Studio Email : studio.xelo@gmail.com
+* Direct Email : umarbenidris@gmail.com
+* Links        : xelo.bio.link
+===========================================================================
