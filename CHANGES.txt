@@ -5,20 +5,21 @@ Version 2026.11.22
 + Added ProtoCanaanite alternate forms 2 and 3 (present in Yorma Gnat's original Proto Canaanite font but largely inaccessible
 + Added MeldoRashi and MeldoSolitreo by Nathan Gross
 + Added Hatkafa by XELO Studio (Umar ben/Ben Nafi)
-+ Added SoferStamAshkenaz by Sofer Fonts (based on StamAshkenazCLM)
-+ Added SoferStamSefarad by Sofer Fonts (based on StamSefaradCLM)
-+ Added FrankSofer by Sofer Fonts (based on Taamey Frank CLM)
-+ Added Hadassah by Sofer Fonts (based on Hadassim)
-+ Added Keter Aram Sova by Sofer Fonts (based on Keter Aram Sova by Culmus)
-+ Added Keter YG by Sofer Fonts (based on Keter YG by Culmus)
-+ Added Shofar by Sofer Fonts (based on Shofar by Culmus)
-+ Added Taamey Ashkenaz by Sofer Fonts (based on Taamey Ashkenaz by Culmus)
-+ Added Taamey David CLM by Sofer Fonts (based on Taamey David CLM by Culmus)
-+ Added Mekorot Rashi by Sofer Fonts (based on Mekorot Rashi)
-+ Added VilnaSofer by Sofer Fonts (based on Drugulin by Culmus)
++ Added SoferStamAshkenaz by Sofer Books (based on StamAshkenazCLM)
++ Added SoferStamSefarad by Sofer Books (based on StamSefaradCLM)
++ Added FrankSofer by Sofer Books (based on Taamey Frank CLM)
++ Added Hadassah by Sofer Books (based on Hadassim)
++ Added Keter Aram Sova by Sofer Books (based on Keter Aram Sova by Culmus)
++ Added Keter YG by Sofer Books (based on Keter YG by Culmus)
++ Added Shofar by Sofer Books (based on Shofar by Culmus)
++ Added Taamey Ashkenaz by Sofer Books (based on Taamey Ashkenaz by Culmus)
++ Added Taamey David CLM by Sofer Books (based on Taamey David CLM by Culmus)
++ Added Mekorot Rashi by Sofer Books (based on Mekorot Rashi)
++ Added VilnaSofer by Sofer Books (based on Drugulin by Culmus)
 • Updates to https://opensiddur.org/help/fonts
 • Updates to the OSP Hebrew Font Pack Comparison Chart (PDF)
 NOTE: Fonts sorted into diacritical support categories in the web page differ from the PDF due to differences in the way browsers support diacritic positioning vs. offline text layout editors
+
 
 Version 2026.11.10
 
